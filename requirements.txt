@@ -1,4 +1,7 @@
 albumentations>=1.4.16
+insightface.data.images
+insightface.data.objects
+insightface.thirdparty.face3d.mesh.cython
 insightface==0.7.3
 onnx>=1.14.0
 opencv-python>=4.7.0.72
